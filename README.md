@@ -1,7 +1,14 @@
 # Keven Mingoranze
 <a href="https://instagram.com/mingoranzee" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mingoranze/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<p>Olá, me chamo Keven, tenho 27 anos e sou de Mogi das Cruzes SP. Estou estudando engenharia de software e em conjunto estudo desenvolvimento mobile usando react native</p>
+<div>
+Olá, me chamo Keven, tenho 27 anos e sou de Mogi das Cruzes SP. Estou estudando engenharia de software e em conjunto estudo desenvolvimento mobile usando react native..             
+<img loading="lazy" src="pokemon-squirtle.gif" height="150"/>
+</div>
+
+
+
+
 
 ## Tecnologias e Ferramentas
 <div>
